@@ -1,4 +1,4 @@
-package com.metroish;
+package com.voornaamenachternaam;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
