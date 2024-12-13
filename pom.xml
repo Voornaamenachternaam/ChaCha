@@ -4,12 +4,12 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.metroish</groupId>
+  <groupId>com.voornaamenachternaam</groupId>
   <artifactId>chacha</artifactId>
   <version>1.0.4</version>
 
   <name>chacha</name>
-  <url>https://github.com/metroish/ChaCha</url>
+  <url>https://github.com/voornaamenachternaam/ChaCha</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -54,7 +54,7 @@
           <configuration>  
             <archive>  
               <manifest>  
-                <mainClass>com.metroish.ChaCha</mainClass>  
+                <mainClass>com.voornaamenachternaam.ChaCha</mainClass>  
               </manifest>  
             </archive>  
           </configuration> 
